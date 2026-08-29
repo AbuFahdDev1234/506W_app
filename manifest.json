@@ -1,17 +1,7 @@
 {
   "app_version": "1.0.0",
   "categories": {
-    "vehicles": [
-      {
-        "id": "b23591cd",
-        "name": "هايلوكس",
-        "description": "",
-        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/2026-08-20_134826.png",
-        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/M7_HILUX16.zip",
-        "filename": "M7_HILUX16.zip",
-        "version": "1.0.0"
-      }
-    ],
+    "vehicles": [],
     "maps": [],
     "addons": [],
     "tutorials": []
