@@ -226,9 +226,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/ZOMVL_Ford_F150_2024_2025_v1_2.zip",
         "filename": "ZOMVL_Ford_F150_2024_2025_v1.2.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "فورد",
         "size": "296 MB"
+      },
+      {
+        "id": "0d2c78c4",
+        "name": "Nissan Sunny | نيسان صني",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/photo_2026-08-30_23-53-34.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Nissan_Sunny_Sr12.zip",
+        "filename": "Nissan_Sunny_Sr12.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "نيسان",
+        "size": "135 MB"
       }
     ],
     "maps": [
