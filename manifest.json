@@ -274,9 +274,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/S3o_Elantra2024.zip",
         "filename": "S3o_Elantra2024.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "هيونداي",
         "size": "166 MB"
+      },
+      {
+        "id": "5cd19395",
+        "name": "Toyota Camry | تويوتا كامري خويلد",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/photo_2026-08-31_02-34-36.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Camry_2021_KHwylD.zip",
+        "filename": "Camry_2021_KHwylD.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "173 MB"
       }
     ],
     "maps": [
