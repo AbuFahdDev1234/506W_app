@@ -135,7 +135,20 @@
         "size": "88 MB"
       }
     ],
-    "maps": [],
+    "maps": [
+      {
+        "id": "9282335e",
+        "name": "AirPort_Binban | ماب بنبان خويلد",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/photo_2026-08-30_23-04-16.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/AirPort_Binban_KHwylD.zip",
+        "filename": "AirPort_Binban_KHwylD.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "117 MB"
+      }
+    ],
     "addons": [],
     "tutorials": []
   }
