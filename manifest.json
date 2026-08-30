@@ -142,9 +142,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Tshalee7_camry18_24.zip",
         "filename": "Tshalee7_camry18_24.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "288 MB"
+      },
+      {
+        "id": "418f7963",
+        "name": "Nissan Sentra | نيسان سنترا",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/file.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/M7_sentra15.zip",
+        "filename": "M7_sentra15.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "نيسان",
+        "size": "176 MB"
       }
     ],
     "maps": [
