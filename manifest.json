@@ -94,9 +94,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/vtcup_liwa.rar",
         "filename": "vtcup_liwa.rar",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "نيسان",
         "size": "61 MB"
+      },
+      {
+        "id": "80165510",
+        "name": "Toyota Camry | تويوتا كامري خويلد",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/photo_2026-08-30_22-47-04.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Camry_2006.rar",
+        "filename": "Camry 2006.rar",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "55 MB"
       }
     ],
     "maps": [],
