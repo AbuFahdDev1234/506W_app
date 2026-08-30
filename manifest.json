@@ -1,7 +1,20 @@
 {
   "app_version": "1.0.0",
   "categories": {
-    "vehicles": [],
+    "vehicles": [
+      {
+        "id": "8658c7a7",
+        "name": "لكزس LX 500",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/vjdnAzo.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/LX500.rar",
+        "filename": "LX500.rar",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "لكزس",
+        "size": "89 MB"
+      }
+    ],
     "maps": [],
     "addons": [],
     "tutorials": []
