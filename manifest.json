@@ -238,9 +238,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Nissan_Sunny_Sr12.zip",
         "filename": "Nissan_Sunny_Sr12.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "نيسان",
         "size": "135 MB"
+      },
+      {
+        "id": "738d4adb",
+        "name": "Kia Cadenza | كيا كادينزا",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/photo_2026-08-30_23-56-00.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Tashaleh_cadenza_2021.zip",
+        "filename": "Tashaleh_cadenza_2021.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "كيا",
+        "size": "44 MB"
       }
     ],
     "maps": [
