@@ -144,9 +144,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/AirPort_Binban_KHwylD.zip",
         "filename": "AirPort_Binban_KHwylD.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "",
         "size": "117 MB"
+      },
+      {
+        "id": "03db2078",
+        "name": "Al_Ghrub | الغروب خويلد",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/photo_2026-08-30_23-12-01.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Al_Ghrub_KHwylD.zip",
+        "filename": "Al_Ghrub_KHwylD.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "235 MB"
       }
     ],
     "addons": [],
