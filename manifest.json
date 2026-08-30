@@ -58,9 +58,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/BO_AHMED_LC300.rar",
         "filename": "BO_AHMED_LC300.rar",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "169 MB"
+      },
+      {
+        "id": "58122130",
+        "name": "Toyota Land | تويوتا لاند خويلد",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Stock_Black.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/LC300_2022_Tshalee7.zip",
+        "filename": "LC300_2022_Tshalee7.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "83 MB"
       }
     ],
     "maps": [],
