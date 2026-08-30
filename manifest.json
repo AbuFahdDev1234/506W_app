@@ -34,9 +34,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/QE1_SIERRA_24.rar",
         "filename": "QE1_SIERRA_24.rar",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "GMC",
         "size": "428 MB"
+      },
+      {
+        "id": "55cb2fdc",
+        "name": "لاند",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/image.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/BdRaN_Land_2016-2021.rar",
+        "filename": "BdRaN_Land_2016-2021.rar",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "253 MB"
       }
     ],
     "maps": [],
