@@ -178,9 +178,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/506W_Team_Accord_08_-_12.rar",
         "filename": "506W Team Accord 08 - 12.rar",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "هوندا",
         "size": "305 MB"
+      },
+      {
+        "id": "c21bf5b0",
+        "name": "Toyota Camry | تويوتا كامري",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/camry_2008.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/506W_camry08_11.rar",
+        "filename": "506W_camry08_11.rar",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "153 MB"
       }
     ],
     "maps": [
