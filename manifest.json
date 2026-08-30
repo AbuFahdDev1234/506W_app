@@ -190,9 +190,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/506W_camry08_11.rar",
         "filename": "506W_camry08_11.rar",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "153 MB"
+      },
+      {
+        "id": "e0d377d2",
+        "name": "Chevrolet Caprice | شيفروليه كابرس",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/photo_2026-08-30_23-31-03.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Tshalee7_Caprice.zip",
+        "filename": "Tshalee7_Caprice.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "شيفروليه",
+        "size": "222 MB"
       }
     ],
     "maps": [
