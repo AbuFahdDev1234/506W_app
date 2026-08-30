@@ -118,9 +118,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/2_K_SONATA2011_14.rar",
         "filename": "2_K_SONATA2011_14.rar",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "هيونداي",
         "size": "200 MB"
+      },
+      {
+        "id": "56b137c3",
+        "name": "GMC Yukon | جي ام سي يوكن",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/-_Elevation.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/2_K_yukon25.rar",
+        "filename": "2_K_yukon25.rar",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "GMC",
+        "size": "88 MB"
       }
     ],
     "maps": [],
