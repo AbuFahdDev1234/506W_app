@@ -262,9 +262,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Tshalee7_Accent_2010.zip",
         "filename": "Tshalee7 Accent 2010.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "هيونداي",
         "size": "135 MB"
+      },
+      {
+        "id": "d0a73163",
+        "name": "Hyundai Elantra | هيونداي الانترا",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Look_5_kr.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/S3o_Elantra2024.zip",
+        "filename": "S3o_Elantra2024.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "هيونداي",
+        "size": "166 MB"
       }
     ],
     "maps": [
