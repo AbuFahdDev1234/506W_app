@@ -22,9 +22,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Corrola15.rar",
         "filename": "Corrola15.rar",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "92 MB"
+      },
+      {
+        "id": "a3bb205f",
+        "name": "سيرا",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/file.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/QE1_SIERRA_24.rar",
+        "filename": "QE1_SIERRA_24.rar",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "GMC",
+        "size": "428 MB"
       }
     ],
     "maps": [],
