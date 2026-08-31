@@ -418,9 +418,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/TRX_BAby.zip",
         "filename": "TRX BAby.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "RAM",
         "size": "102 MB"
+      },
+      {
+        "id": "c5c6d300",
+        "name": "Nissan Altima | نيسان التيما",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Look_133.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/file.zip",
+        "filename": "____________.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "نيسان",
+        "size": "53 MB"
       }
     ],
     "maps": [
