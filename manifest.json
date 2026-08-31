@@ -502,9 +502,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/506W_Hilux15_double.zip",
         "filename": "506W_Hilux15_double.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "178 MB"
+      },
+      {
+        "id": "77dd63ac",
+        "name": "Hyundai Sonata | هيونداي سوناتا",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/vray.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/sonatanffl.zip",
+        "filename": "sonatanffl.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "هيونداي",
+        "size": "41 MB"
       }
     ],
     "maps": [
