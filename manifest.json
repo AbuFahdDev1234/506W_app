@@ -442,9 +442,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Yuckon_2014_KHwylD.zip",
         "filename": "Yuckon_2014_KHwylD.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "GMC",
         "size": "43 MB"
+      },
+      {
+        "id": "b73f8d12",
+        "name": "Nissan Y61 | نيسان فتك",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Xhzxz6E.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/kn0z_y61.zip",
+        "filename": "kn0z_y61.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "نيسان",
+        "size": "593 MB"
       }
     ],
     "maps": [
