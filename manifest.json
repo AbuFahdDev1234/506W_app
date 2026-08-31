@@ -526,9 +526,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/patrol.zip",
         "filename": "patrol.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "نيسان",
         "size": "38 MB"
+      },
+      {
+        "id": "f2a360c4",
+        "name": "Toyota Yaris | تويوتا يارس",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Y-Plus_Black.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Yaris_discord_gg_DkM5V5BzBG.zip",
+        "filename": "Yaris_discord_gg_DkM5V5BzBG.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "168 MB"
       }
     ],
     "maps": [
