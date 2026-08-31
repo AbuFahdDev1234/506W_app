@@ -382,9 +382,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/L5W_CERATO_SERVER.zip",
         "filename": "L5W_CERATO_SERVER.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "كيا",
         "size": "122 MB"
+      },
+      {
+        "id": "3123c5b0",
+        "name": "Toyota Land | تويوتا لاند",
+        "description": "لاند كروزر حصري جدا",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/vmA0HqK.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/off_land.zip",
+        "filename": "off_land.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "469 MB"
       }
     ],
     "maps": [
