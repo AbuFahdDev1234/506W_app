@@ -454,9 +454,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/kn0z_y61.zip",
         "filename": "kn0z_y61.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "نيسان",
         "size": "593 MB"
+      },
+      {
+        "id": "cbd53dc9",
+        "name": "Lexus LS 430 | لكزس ال اس 430",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/l11cURh.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/L5W_LS430.zip",
+        "filename": "L5W_LS430.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "لكزس",
+        "size": "149 MB"
       }
     ],
     "maps": [
