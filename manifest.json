@@ -430,9 +430,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/file.zip",
         "filename": "____________.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "نيسان",
         "size": "53 MB"
+      },
+      {
+        "id": "79e773fe",
+        "name": "GMC Yukon | جي ام سي يوكن خويلد",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/OEeCSda.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Yuckon_2014_KHwylD.zip",
+        "filename": "Yuckon_2014_KHwylD.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "GMC",
+        "size": "43 MB"
       }
     ],
     "maps": [
