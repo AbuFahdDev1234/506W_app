@@ -310,9 +310,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/sh9_y61_v1.zip",
         "filename": "sh9_y61_v1.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "نيسان",
         "size": "458 MB"
+      },
+      {
+        "id": "6f7b88db",
+        "name": "Ford Taurus | فورد تورس افلن تيم",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Standard.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Ford_Taurus_19_-_22.zip",
+        "filename": "Ford Taurus 19 - 22.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "فورد",
+        "size": "355 MB"
       }
     ],
     "maps": [
