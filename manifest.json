@@ -406,9 +406,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/land_g_BdRaN.zip",
         "filename": "land_g_BdRaN.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "264 MB"
+      },
+      {
+        "id": "a8848fbb",
+        "name": "TRX RAM | تي ار اكس رام",
+        "description": "المميزات:\nشاصي واقعي\nمساعدات بحركه واقعيه\nمكينه تتحرك\nكفرات حجريه",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/default1111111111111111111111.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/TRX_BAby.zip",
+        "filename": "TRX BAby.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "RAM",
+        "size": "102 MB"
       }
     ],
     "maps": [
