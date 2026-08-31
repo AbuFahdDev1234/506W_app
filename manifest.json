@@ -358,9 +358,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/M7_elantra17.zip",
         "filename": "M7_elantra17.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "هيونداي",
         "size": "137 MB"
+      },
+      {
+        "id": "1c2ea332",
+        "name": "Hyundai Accent | هيونداي اكسنت",
+        "description": "هيونداي اكسنت توجد بها لوكات مفجوره ،",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/file.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/vehicles.zip",
+        "filename": "vehicles.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "هيونداي",
+        "size": "126 MB"
       }
     ],
     "maps": [
