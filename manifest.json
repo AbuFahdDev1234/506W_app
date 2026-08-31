@@ -394,9 +394,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/off_land.zip",
         "filename": "off_land.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "469 MB"
+      },
+      {
+        "id": "b8589181",
+        "name": "Toyota Land | لاند صفاق حصري",
+        "description": "لاند كروزر صفاق حصري جدا",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/default111111111.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/land_g_BdRaN.zip",
+        "filename": "land_g_BdRaN.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "264 MB"
       }
     ],
     "maps": [
