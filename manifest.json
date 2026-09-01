@@ -780,9 +780,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/levels.zip",
         "filename": "levels.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "",
         "size": "40 MB"
+      },
+      {
+        "id": "086b8832",
+        "name": "Map Italy | ماب ايطالي",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/1t6q60p.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/passostelvio.zip",
+        "filename": "passostelvio.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "910 MB"
       }
     ],
     "addons": [],
