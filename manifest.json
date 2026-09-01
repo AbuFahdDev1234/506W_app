@@ -706,9 +706,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Bugatti_Chiron_Super_Sport_2022.zip",
         "filename": "Bugatti Chiron Super Sport 2022.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "بوقاتي",
         "size": "61 MB"
+      },
+      {
+        "id": "3bc6c58d",
+        "name": "Vtc Pickup | بيك اب نيسان",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/-.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/vehicles.zip",
+        "filename": "vehicles.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "نيسان",
+        "size": "200 MB"
       }
     ],
     "maps": [
