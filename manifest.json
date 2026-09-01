@@ -538,9 +538,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Yaris_discord_gg_DkM5V5BzBG.zip",
         "filename": "Yaris_discord_gg_DkM5V5BzBG.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "168 MB"
+      },
+      {
+        "id": "b2094118",
+        "name": "Toyota Camry",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/0_km_St.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Camry.zip",
+        "filename": "Camry.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "98 MB"
       }
     ],
     "maps": [
