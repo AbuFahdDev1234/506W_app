@@ -586,9 +586,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Ford_F150_2018_2020.zip",
         "filename": "Ford_F150_2018_2020.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "فورد",
         "size": "61 MB"
+      },
+      {
+        "id": "d44468df",
+        "name": "Nissan VTC |  نيسان فتك 1998",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Liwa_2001_GL_MSHI.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Liwa_VTC_1998.zip",
+        "filename": "Liwa_VTC_1998.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "نيسان",
+        "size": "419 MB"
       }
     ],
     "maps": [
