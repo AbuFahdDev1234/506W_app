@@ -682,9 +682,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Camry_25_KHwylD.zip",
         "filename": "Camry_25_KHwylD.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "تويوتا",
         "size": "154 MB"
+      },
+      {
+        "id": "bac3e487",
+        "name": "Toyota Hilux | تويوتا هايلوكس خويلد",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/LFs6a5L.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Hilux_2015_KHwylD.zip",
+        "filename": "Hilux_2015_KHwylD.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "91 MB"
       }
     ],
     "maps": [
