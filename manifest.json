@@ -768,9 +768,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Abo_SrooR_Sasko.zip",
         "filename": "Abo_SrooR_Sasko.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "",
         "size": "184 MB"
+      },
+      {
+        "id": "5f938b00",
+        "name": "ماب اوبلز | Map Opels",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/2026-09-01_185712.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/levels.zip",
+        "filename": "levels.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "40 MB"
       }
     ],
     "addons": [],
