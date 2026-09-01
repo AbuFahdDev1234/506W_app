@@ -598,9 +598,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Liwa_VTC_1998.zip",
         "filename": "Liwa_VTC_1998.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "نيسان",
         "size": "419 MB"
+      },
+      {
+        "id": "51dd4bae",
+        "name": "Lexus 570 | لكزس 570",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/screenshot_2026-05-27_04-06-18.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/LX570_2017_KHwylD.zip",
+        "filename": "LX570_2017_KHwylD.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "لكزس",
+        "size": "108 MB"
       }
     ],
     "maps": [
