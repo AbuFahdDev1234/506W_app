@@ -610,9 +610,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/LX570_2017_KHwylD.zip",
         "filename": "LX570_2017_KHwylD.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "لكزس",
         "size": "108 MB"
+      },
+      {
+        "id": "a08a8d73",
+        "name": "Lexus LX470 | لكزس 470",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/2003333.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/BO_MAYED_lx470.zip",
+        "filename": "BO_MAYED_lx470.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "لكزس",
+        "size": "257 MB"
       }
     ],
     "maps": [
