@@ -622,9 +622,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/BO_MAYED_lx470.zip",
         "filename": "BO_MAYED_lx470.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "لكزس",
         "size": "257 MB"
+      },
+      {
+        "id": "4a758790",
+        "name": "911 بورش | Porsche 911",
+        "description": "- نموذج ثلاثي الأبعاد عالي الجودة ومفصل\n- نسيج جلدي عالي الجودة للمقاعد ولوحة القيادة\n- مصابيح أمامية وخلفية عالية الجودة\n- نظام تحديد المواقع العالمي (GPS) يعمل\n- يدعم جميع وظائف اللعبة\n- قابل للفتح بالكامل (غطاء المحرك، الأبواب، صندوق الأمتعة)\n- لوحة قيادة عالية الجودة مع عدادات تعمل\n- تصميم داخلي مفصل\n- مرايا واقعية\n- 28 وضعية",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/porsche-taycan-dans-la-foret-verdoyante-lg_modland.webp",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Porsche_Taycan_BETA_modland.zip",
+        "filename": "Porsche_Taycan_BETA_modland.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "بورش",
+        "size": "765 MB"
       }
     ],
     "maps": [
