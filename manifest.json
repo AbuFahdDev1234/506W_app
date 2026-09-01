@@ -876,9 +876,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/whsd.zip",
         "filename": "whsd.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "",
         "size": "526 MB"
+      },
+      {
+        "id": "ad75931b",
+        "name": "Map al_shifa | ماب حي الشفا",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/60_ALSHFA_preview.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/60_ALSHFA.zip",
+        "filename": "60_ALSHFA.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "317 MB"
       }
     ],
     "addons": [],
