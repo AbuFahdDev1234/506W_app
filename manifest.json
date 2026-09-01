@@ -744,9 +744,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Al_Ghrub_KHwylD.zip",
         "filename": "Al_Ghrub_KHwylD.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "",
         "size": "235 MB"
+      },
+      {
+        "id": "774419af",
+        "name": "Map AL FROSIYA | ماب الفروسيه",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/5wj796h.jpg",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/alfrusiya.zip",
+        "filename": "alfrusiya.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "374 MB"
       }
     ],
     "addons": [],
