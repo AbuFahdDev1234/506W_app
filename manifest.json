@@ -816,9 +816,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/c1_forums_1.zip",
         "filename": "c1_forums (1).zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "",
         "size": "485 MB"
+      },
+      {
+        "id": "48423030",
+        "name": "ماب الثلج | Snow map",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/2026-09-01_190835.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/levels.zip",
+        "filename": "levels.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "537 MB"
       }
     ],
     "addons": [],
