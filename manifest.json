@@ -756,9 +756,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/alfrusiya.zip",
         "filename": "alfrusiya.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "",
         "size": "374 MB"
+      },
+      {
+        "id": "910382a9",
+        "name": "ماب ساسكو معدل | SASCO Rate",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/2026-09-01_185452.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Abo_SrooR_Sasko.zip",
+        "filename": "Abo_SrooR_Sasko.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "",
+        "size": "184 MB"
       }
     ],
     "addons": [],
