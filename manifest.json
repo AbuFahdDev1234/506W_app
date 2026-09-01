@@ -670,9 +670,21 @@
         "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/RoyalR_BMW_G82_M4_v1_7_modland.zip",
         "filename": "RoyalR_BMW_G82_M4_v1.7_modland.zip",
         "version": "1.0.0",
-        "is_new": true,
+        "is_new": false,
         "brand": "بي ام دبليو",
         "size": "328 MB"
+      },
+      {
+        "id": "9ebe0280",
+        "name": "Toyota Camry Hybrid | تويوتا كامري هايبرد",
+        "description": "",
+        "image": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/default1511556156156.png",
+        "download_url": "https://github.com/AbuFahdDev1234/506W_app/releases/download/content/Camry_25_KHwylD.zip",
+        "filename": "Camry_25_KHwylD.zip",
+        "version": "1.0.0",
+        "is_new": true,
+        "brand": "تويوتا",
+        "size": "154 MB"
       }
     ],
     "maps": [
